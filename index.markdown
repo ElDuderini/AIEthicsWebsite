@@ -4,19 +4,19 @@
 
 ---
 
-Below is a list of article links with some comments to summerize their content
+Below is a list of article links with some comments to summarize their content
 
-[Artists file lawsuit against AI content generators for missusing copyright](https://www.reuters.com/legal/transactional/lawsuits-accuse-ai-content-creators-misusing-copyrighted-work-2023-01-17/)
+[Artists file lawsuit against AI content generators for misusing copyright](https://www.reuters.com/legal/transactional/lawsuits-accuse-ai-content-creators-misusing-copyrighted-work-2023-01-17/)
 - Stability AI, mid-journey, and Deviantart are being sued for copyright infringement, by collecting art data without permission.
 - Getty Images takes legal action against Stability AI
 - A class action lawsuit was also filed against Github and OpenAI for using copyrighted source code without permission.
 
-[US Senate press release going over plans for bipartisan AI breifing](https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-leads-bipartisan-dear-colleague-letter_with-senators-rounds-heinrich-and-young--announcing-three-bipartisan-senators-only-briefings-this-summer-including-first-ever-classified-all-senators-ai-briefing)
+[US Senate press release going over plans for bipartisan AI briefing](https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-leads-bipartisan-dear-colleague-letter_with-senators-rounds-heinrich-and-young--announcing-three-bipartisan-senators-only-briefings-this-summer-including-first-ever-classified-all-senators-ai-briefing)
 - Will discuss how AI is currently used and what it is capable of
 - Will discuss where AI will develop in the next decade.
 - Will look into how DoD uses AI and how enemies of the US use AI.
 
-[CEO of OpenAI, the creator of Chat Gbt, approches congress with concerns of AI](https://edition.cnn.com/2023/05/17/tech/sam-altman-congress/index.html?cid=external-feeds_iluminar_msn)
+[CEO of OpenAI, the creator of Chat Gbt, approaches congress with concerns of AI](https://edition.cnn.com/2023/05/17/tech/sam-altman-congress/index.html?cid=external-feeds_iluminar_msn)
 - Lawmakers are impressed with how upfront the CEO (Sam Altman) of OpenAI is (Chat Gbt)
 - Altman states that jobs will become replaced by AI, but will be replaced by better jobs. He seeks government support to mitigate the risks of job loss
 - People are wary about how willing Congress is to listen to how a CEO would regulate his own tech.
