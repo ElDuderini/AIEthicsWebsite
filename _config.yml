@@ -23,6 +23,7 @@ email: justin.peters@umain.com
 description: >- # this means to ignore newlines until "baseurl:"
   A compilation of sources and summaries for those sources for
   a Umain tech accelorator event themed around AI, where we focused on ethics.
+url: "https://elduderini.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ElDuderini
 
 # Build settings
